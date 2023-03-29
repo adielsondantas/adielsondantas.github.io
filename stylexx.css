@@ -1,0 +1,19 @@
+body {
+    color: white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    width: 300px;
+    height: 250px; 
+   
+}
+
+h1 {
+    color: goldenrod;
+}
+
+.meio{
+    padding: 0px 50px;
+}
